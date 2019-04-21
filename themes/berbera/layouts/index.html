@@ -20,7 +20,7 @@
         
         <div class="row" id="python">
             <div class="col-sm-12">
-                <h3 class="category_header">Python</h3>
+                <h3 class="category_header">Base</h3>
             </div>
         </div>
 
@@ -31,7 +31,7 @@
                     <h4 class="card-header">One</h4>
                     <div class="card-body">
                         <ul>
-                            {{ range (where .Pages "File.Dir" "in" "/python/one/").ByTitle }}
+                            {{ range (where .Pages "File.Dir" "in" "/base/one/").ByTitle }}
                             <li>
                                 <a href="{{.Permalink}}">{{.Title}}</a>
                             </li>
