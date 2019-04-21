@@ -1,6 +1,6 @@
 baseURL = "https://teamtact.github.io/notesbase/"
 languageCode = "en-us"
-title = "Raja CSP Raman"
+title = "TACT Author"
 theme = "berbera"
 
 pygmentsCodeFences=true

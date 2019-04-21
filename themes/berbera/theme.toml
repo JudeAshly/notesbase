@@ -6,8 +6,8 @@ features = ["responsive", "blog"]
 min_version = 0.25
 
 [author]
-  name = "Raja CSP Raman"
-  homepage = "https://talentaccurate.com.com"
+  name = "TACT Author"
+  homepage = "-"
 
 [based on]
   name = "Alan Orth"
